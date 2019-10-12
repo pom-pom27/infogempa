@@ -1,7 +1,7 @@
 Info Gempa App
 ===================================
 
-This app displays a list of recent earthquakes in the world
+This app displays a list of recent earthquakes in indonesia
 from the U.S. Geological Survey (USGS) organization.
 
 More info on the USGS Earthquake API available at:
