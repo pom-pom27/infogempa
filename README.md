@@ -1,4 +1,4 @@
-Quake Report App
+Info Gempa App
 ===================================
 
 This app displays a list of recent earthquakes in the world
