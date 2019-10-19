@@ -1,4 +1,4 @@
-Info Gempa App
+Info Gempa App(Under Development)
 ===================================
 
 This app displays a list of recent earthquakes in indonesia
